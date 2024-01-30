@@ -1,5 +1,5 @@
 '''
-this program converts an image into an ASCII version with only white space and dot characters used. it is like black and white, but different.
+this program converts an image into an ASCII version with only white space and hex digit characters used. it is like black and white, but different.
 have fun with it.
 '''
 
